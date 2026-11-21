@@ -19,24 +19,9 @@
     "prs",
     "production"
   ],
-  "fetch": [
-    [
-      "lenguajes",
-      "Python, JavaScript"
-    ],
-    [
-      "stack",
-      "Django, MySQL"
-    ],
-    [
-      "en github",
-      "desde 2025"
-    ],
-    [
-      "equipo",
-      "Trinity Codex"
-    ]
-  ],
+  "portrait": "data/portrait-sheet.png",
+  "portrait_frames": "data/portrait-sheet.json",
+  "portrait_width": 250,
   "languages_ignore": [
     "HTML",
     "CSS",
