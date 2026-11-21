@@ -1,6 +1,6 @@
-<img src="assets/header.svg?v=627e513b" width="100%" alt="MaxisotooH: Desarrollador backend · Python y Django. Construyo aplicaciones web con Python y Django: gestión de condominios, bodegas y tiendas, y APIs REST con MySQL, PostgreSQL y MongoDB.">
+<img src="assets/header.svg?v=17817732" width="100%" alt="Maxi Soto: Analista Programador. Construyo aplicaciones web con Python y Django: gestión de condominios, bodegas y tiendas, y APIs REST con MySQL, PostgreSQL y MongoDB.">
 
-<img src="assets/profile-signal.svg?v=ce522a6d" width="100%" alt="Señal de perfil">
+<img src="assets/profile-signal.svg?v=35a6ba7b" width="100%" alt="Señal de perfil">
 
 ## Trabajo seleccionado
 
@@ -17,6 +17,6 @@
 
 ## Señal de constancia
 
-<img src="assets/consistency-signal.svg?v=5a8c2084" width="100%" alt="Actividad de contribuciones">
+<img src="assets/consistency-signal.svg?v=261eced9" width="100%" alt="Actividad de contribuciones">
 
 <p align="right"><a href="https://github.com/ProfileStudio/ProfileStudio"><img src="assets/made-with.svg?v=a7abe95d" height="26" alt="Hecho con ProfileStudio" title="Hecho con ProfileStudio"></a></p>
