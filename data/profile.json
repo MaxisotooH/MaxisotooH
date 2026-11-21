@@ -1,0 +1,152 @@
+{
+  "login": "MaxisotooH",
+  "name": "MaxisotooH",
+  "role": "Desarrollador backend · Python y Django",
+  "bio": "Construyo aplicaciones web con Python y Django: gestión de condominios, bodegas y tiendas, y APIs REST con MySQL, PostgreSQL y MongoDB.",
+  "pills": [
+    "Python",
+    "Django",
+    "MySQL",
+    "PostgreSQL",
+    "JavaScript",
+    "GitHub Actions"
+  ],
+  "theme": "vim",
+  "lang": "es",
+  "tiles": [
+    "repos",
+    "contributions",
+    "prs",
+    "production"
+  ],
+  "fetch": [
+    [
+      "lenguajes",
+      "Python, JavaScript"
+    ],
+    [
+      "stack",
+      "Django, MySQL"
+    ],
+    [
+      "en github",
+      "desde 2025"
+    ],
+    [
+      "equipo",
+      "Trinity Codex"
+    ]
+  ],
+  "languages_ignore": [
+    "HTML",
+    "CSS",
+    "Batchfile",
+    "Shell",
+    "Procfile"
+  ],
+  "projects": [
+    {
+      "repo": "Trinity-Codex/Proyecto_CondoHub",
+      "title": "CondoHub",
+      "label": "PLATAFORMA WEB · EQUIPO",
+      "desc": "Gestión de condominios: gastos comunes con prorrateo, pagos, morosidad, reservas, incidentes y notificaciones, con varios condominios y roles.",
+      "stack": [
+        "Django 5.2",
+        "MySQL 8",
+        "Bootstrap 5",
+        "CI"
+      ],
+      "status": "Demo en Render",
+      "kind": "prod"
+    },
+    {
+      "repo": "MaxisotooH/SistemadeAdministracion_Control_Bodega",
+      "title": "Control de Bodega",
+      "label": "SISTEMA WEB · INVENTARIO",
+      "desc": "Gestión integral de una bodega: recepción, inventario, movimientos internos, picking y despacho, devoluciones, trazabilidad y reportes.",
+      "stack": [
+        "Django 5",
+        "PostgreSQL",
+        "Bootstrap 5",
+        "Python"
+      ],
+      "status": "En desarrollo",
+      "kind": "proto"
+    },
+    {
+      "repo": "MaxisotooH/proyecto_eva3",
+      "title": "Tienda API",
+      "label": "API REST · BACKEND",
+      "desc": "API RESTful para crear, listar, actualizar y borrar productos, con respuestas JSON y 36 pruebas automáticas en CI con MariaDB.",
+      "stack": [
+        "Django REST",
+        "MySQL",
+        "GitHub Actions",
+        "Python"
+      ],
+      "status": "Proyecto académico",
+      "kind": "proto"
+    },
+    {
+      "repo": "MaxisotooH/coleccionable-api",
+      "title": "Coleccionables API",
+      "label": "API REST · INVENTARIO",
+      "desc": "API RESTful de inventario de coleccionables: CRUD completo, búsqueda por atributos, validación con Pydantic y documentación con Swagger.",
+      "stack": [
+        "FastAPI",
+        "MongoDB Atlas",
+        "Pydantic",
+        "Swagger"
+      ],
+      "status": "Prototipo",
+      "kind": "proto"
+    }
+  ],
+  "toolkit": [
+    {
+      "label": "Lenguajes",
+      "items": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "HTML/CSS"
+      ]
+    },
+    {
+      "label": "Backend",
+      "items": [
+        "Django",
+        "Django REST Framework",
+        "FastAPI"
+      ]
+    },
+    {
+      "label": "Datos",
+      "items": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "SQLite"
+      ]
+    },
+    {
+      "label": "Frontend",
+      "items": [
+        "Bootstrap 5",
+        "Plantillas Django",
+        "DOM y APIs REST"
+      ]
+    },
+    {
+      "label": "Entrega",
+      "items": [
+        "Git",
+        "GitHub Actions",
+        "GitHub Pages",
+        "Render"
+      ]
+    }
+  ],
+  "extra_sections": [],
+  "credits": []
+}
